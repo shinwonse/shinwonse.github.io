@@ -50,8 +50,16 @@ author:
 menu:
   - title: JavaScript
     url: /javascript/
+    submenu:
+      - title: 모던자바스크립트 Deep Dive
+        url: /deepdive/
   - title: React
     url: /react/
+    submenu:
+      - title: BB:PSP
+        url: /bb-psp/
+      - title: Test1
+        url: /test1/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
