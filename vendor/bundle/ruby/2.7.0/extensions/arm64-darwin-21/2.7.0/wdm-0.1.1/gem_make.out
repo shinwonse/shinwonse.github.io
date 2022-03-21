@@ -1,0 +1,11 @@
+current directory: /Users/wonse/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+/Users/wonse/.rbenv/versions/2.7.2/bin/ruby -I /Users/wonse/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20220321-16908-1954ds7.rb extconf.rb
+
+current directory: /Users/wonse/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+make "DESTDIR=" clean
+
+current directory: /Users/wonse/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+make "DESTDIR="
+
+current directory: /Users/wonse/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+make "DESTDIR=" install
